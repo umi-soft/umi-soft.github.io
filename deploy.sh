@@ -16,6 +16,6 @@ git init
 git add -A
 git commit -m 'deploy'
 
-git push -f "https://github.com/umi-soft/umi-soft.github.io.git" master:gh-pages
+git push -f "https://github.com/umi-soft/umi-soft.github.io.git" master
 
 cd -
